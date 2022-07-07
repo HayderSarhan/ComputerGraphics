@@ -4,6 +4,7 @@
 
 #include <functional>
 #include <iostream>
+#include <cfloat>
 #include <linalg.h>
 #include <memory>
 
